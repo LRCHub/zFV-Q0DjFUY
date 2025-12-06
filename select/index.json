@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "GOING UP",
+  "base_artist": "Liella!",
+  "createdAt": "2025-12-06T04:52:56.553147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Going Up the Country",
+      "artist": "Canned Heat",
+      "has_synced": true,
+      "path": "select/01_Going_Up_the_Country_Canned_Heat.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Interlude: Elevator Going Up",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/02_Interlude__Elevator_Going_Up_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Interlude: Elevator Going Up",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/03_Interlude__Elevator_Going_Up_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Going Up",
+      "artist": "Coil",
+      "has_synced": false,
+      "path": "select/04_Going_Up_Coil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Going Up",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": true,
+      "path": "select/05_Going_Up_Echo_&_The_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Going Up The Country - 2005 Remaster",
+      "artist": "Canned Heat",
+      "has_synced": true,
+      "path": "select/06_Going_Up_The_Country_-_2005_Remaster_Canned_Heat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Am I Going up?",
+      "artist": "All Them Witches",
+      "has_synced": true,
+      "path": "select/07_Am_I_Going_up_All_Them_Witches.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Going up the Country - Remastered",
+      "artist": "Canned Heat",
+      "has_synced": false,
+      "path": "select/08_Going_up_the_Country_-_Remastered_Canned_Heat.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Interlude: Elevator Going Up",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/09_Interlude__Elevator_Going_Up_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Going Up the Country",
+      "artist": "Canned Heat",
+      "has_synced": true,
+      "path": "select/10_Going_Up_the_Country_Canned_Heat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fifteen Years Going Up (And One Night Coming Down)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_Fifteen_Years_Going_Up_(And_One_Night_Coming_Down)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fifteen Year Going Up (And One Night Coming Down)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Fifteen_Year_Going_Up_(And_One_Night_Coming_Down)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Going Up The Country",
+      "artist": "Canned Heat",
+      "has_synced": true,
+      "path": "select/13_Going_Up_The_Country_Canned_Heat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Going Up To the Country",
+      "artist": "Colin James",
+      "has_synced": false,
+      "path": "select/14_Going_Up_To_the_Country_Colin_James.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Going Up The Country",
+      "artist": "Canned Heat",
+      "has_synced": false,
+      "path": "select/15_Going_Up_The_Country_Canned_Heat.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOING UP",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_GOING_UP_Liella!.txt"
+    }
+  ]
+}
